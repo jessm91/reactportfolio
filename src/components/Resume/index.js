@@ -10,7 +10,7 @@ return(
             <div class="mt-5 pl-5 pr-5">
                 <h2>Jessica Mangiameli</h2>
                
-               <a href="" class="link">Download Resume</a>
+               <a href="https://github.com/jessm91/jessica-portfolio/blob/master/assets/resume.docx?raw=true" class="link">Download Resume</a>
                
             </div>
         </div>
