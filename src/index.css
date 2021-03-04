@@ -8,9 +8,9 @@ body {
   --primary-color: #20b2aa;
   --secondary-color: grey;
   --tertiary-color: #779ecb;
-  --quaternary-color: #b19cd9;
+  --quaternary-color: #779ecb;
   --quinary-color: #D99294;
-  --senary-color: black;
+  --senary-color: #b19cd9;
 }
 
 * {
@@ -95,6 +95,11 @@ h2 {
   background-color: white;
 }
 
+#project-icon {
+  background-color: var(--white);
+  padding: 5px;
+}
+
 #topics {
   font-size: small;
   font-style: italic;
@@ -158,11 +163,11 @@ ul li {
 }
 
 #footer {
-  background-color: var(--quaternary-color);
+  background-color: white;
 }
 
 #footer p {
-  background-color: var(--quaternary-color);
+  background-color: white;
   margin-top: 8px;
 }
 
