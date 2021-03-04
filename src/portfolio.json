@@ -1,0 +1,49 @@
+[{
+    "id": 1,
+    "name": "The Ideal Meal",
+    "image": "https://github.com/shanestewart4/Ideal-Meal/blob/jess/assets/images/screenshot.png?raw=true",
+    "github": "https://github.com/shanestewart4/Ideal-Meal",
+    "deploy": "https://shanestewart4.github.io/Ideal-Meal/",
+    "topics": "HTML/CSS/JavaScrip"
+},
+{
+    "id": 2,
+    "name": "CSS Technical Documentation",
+    "image": "https://github.com/jessm91/jessica-portfolio/blob/master/assets/images/ss4.jpg?raw=true",
+    "github": "https://github.com/jessm91/tech-documenation",
+    "deploy": "https://jessm91.github.io/tech-documenation/",
+    "topics": "HTML/CSS"
+},
+{
+    "id": 3,
+    "name": "Tribute Page",
+    "image": "https://github.com/jessm91/jessica-portfolio/blob/master/assets/images/ss1.jpg?raw=true",
+    "github": "https://github.com/jessm91/tribute-page",
+    "deploy": "https://jessm91.github.io/tribute-page/",
+    "topics": "HTML/CSS"
+},
+{
+    "id": 4,
+    "name": "LuLu's Bistro",
+    "image": "https://github.com/jessm91/jessica-portfolio/blob/master/assets/images/ss2.jpg?raw=true",
+    "github": "https://github.com/jessm91/survey-form",
+    "deploy": "https://jessm91.github.io/survey-form/",
+    "topics": "HTML/CSS"
+},
+{
+    "id": 5,
+    "name": "Doorman",
+    "image": "https://github.com/jessm91/jessica-portfolio/blob/master/assets/images/ss7.png?raw=true",
+    "github": "https://github.com/tiptondt1998/Doorman",
+    "deploy": "https://gentle-hollows-60962.herokuapp.com/",
+    "topics": "Full Stack"
+},
+{
+    "id": 6,
+    "name": "Run Buddy",
+    "image": "https://github.com/jessm91/jessica-portfolio/blob/master/assets/images/ss5.jpg?raw=true",
+    "github": "https://github.com/jessm91/run-buddy",
+    "deploy": "https://jessm91.github.io/run-buddy/",
+    "topics": "HTML/CSS"
+}
+]
